@@ -1,0 +1,1 @@
+# provider_with_thermal_printer
